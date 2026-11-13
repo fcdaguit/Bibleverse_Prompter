@@ -1,0 +1,26 @@
+{
+  "code": "BUGNA",
+  "name": "Ang Bag-ong Maayong Balita (Bugna)",
+  "abbreviation": "CEB",
+  "language": "ceb",
+  "languageLabel": "Cebuano",
+  "_note": "SAMPLE FILE - replace with the full public-domain Cebuano text before release. The verse text below was typed from memory and MUST be checked against a printed or trusted digital Cebuano Bible before you rely on it in a service.",
+  "verses": [
+    { "b": 1, "c": 1, "v": 1, "t": "Sa sinugdan gibuhat sa Dios ang mga langit ug ang yuta." },
+    { "b": 1, "c": 1, "v": 2, "t": "Ug ang yuta awa-aw ug walay sulod; ug ang kangitngit diha sa ibabaw sa nawong sa kahiladman; ug ang Espiritu sa Dios naglihok sa ibabaw sa nawong sa mga tubig." },
+    { "b": 1, "c": 1, "v": 3, "t": "Ug miingon ang Dios: Mahimo ang kahayag; ug dihay kahayag." },
+
+    { "b": 19, "c": 23, "v": 1, "t": "Si Jehova mao ang akong magbalantay; walay makulang kanako." },
+    { "b": 19, "c": 23, "v": 2, "t": "Ginapahigda niya ako sa mga sibsibanan nga malunhaw; ginatultolan niya ako sa daplin sa mga tubig nga malinaw." },
+    { "b": 19, "c": 23, "v": 3, "t": "Ginapabalik niya ang akong kalag: Ginamandoan niya ako sa mga dalan sa pagkamatarung tungod sa iyang ngalan." },
+
+    { "b": 40, "c": 5, "v": 3, "t": "Bulahan ang mga kabus sa espiritu: kay ila ang gingharian sa langit." },
+    { "b": 40, "c": 5, "v": 4, "t": "Bulahan ang mga nagabangotan: kay sila pagalipayon." },
+
+    { "b": 43, "c": 3, "v": 16, "t": "Kay gihigugma sa Dios ang kalibutan sa ingon nga paagi, nga gihatag niya ang iyang bugtong nga Anak, aron ang tanan nga mosalig kaniya dili mawala, kondili may kinabuhi nga walay katapusan." },
+
+    { "b": 45, "c": 8, "v": 28, "t": "Ug nahibalo kita nga ang tanang mga butang nagabuhat nga mag-uban alang sa kaayohan niadtong mga nahigugma sa Dios, kanila nga mga tinawag sumala sa iyang katuyoan." },
+
+    { "b": 50, "c": 4, "v": 13, "t": "Mahimo ko ang tanang mga butang pinaagi kaniya nga nagapalig-on kanako." }
+  ]
+}

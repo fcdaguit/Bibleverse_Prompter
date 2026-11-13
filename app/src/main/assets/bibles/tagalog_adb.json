@@ -1,0 +1,26 @@
+{
+  "code": "ADB",
+  "name": "Ang Dating Biblia (1905)",
+  "abbreviation": "ADB",
+  "language": "fil",
+  "languageLabel": "Tagalog",
+  "_note": "SAMPLE FILE - replace with the full public-domain Ang Dating Biblia 1905 before release. The verse text below was typed from memory and MUST be checked against a printed or trusted digital ADB before you rely on it in a service.",
+  "verses": [
+    { "b": 1, "c": 1, "v": 1, "t": "Nang pasimula ay nilikha ng Dios ang langit at ang lupa." },
+    { "b": 1, "c": 1, "v": 2, "t": "At ang lupa ay walang anyo at walang laman; at ang kadiliman ay sumasa ibabaw ng kalaliman; at ang Espiritu ng Dios ay sumasa ibabaw ng tubig." },
+    { "b": 1, "c": 1, "v": 3, "t": "At sinabi ng Dios Magkaroon ng liwanag; at nagkaroon ng liwanag." },
+
+    { "b": 19, "c": 23, "v": 1, "t": "Ang Panginoon ay aking pastor; hindi ako mangangailangan." },
+    { "b": 19, "c": 23, "v": 2, "t": "Kaniyang pinahihiga ako sa sariwang pastulan: pinapatnubayan niya ako sa siping ng mga tubig na pahingahan." },
+    { "b": 19, "c": 23, "v": 3, "t": "Kaniyang pinapananauli ang aking kaluluwa: pinapatnubayan niya ako sa mga landas ng katuwiran alangalang sa kaniyang pangalan." },
+
+    { "b": 40, "c": 5, "v": 3, "t": "Mapapalad ang mga mapagpakumbabang-loob: sapagka't kanila ang kaharian ng langit." },
+    { "b": 40, "c": 5, "v": 4, "t": "Mapapalad ang nangahahapis: sapagka't sila'y aaliwin." },
+
+    { "b": 43, "c": 3, "v": 16, "t": "Sapagka't gayon na lamang ang pagsinta ng Dios sa sanglibutan, na ibinigay niya ang kaniyang bugtong na Anak, upang ang sinomang sa kaniya'y sumampalataya ay huwag mapahamak, kundi magkaroon ng buhay na walang hanggan." },
+
+    { "b": 45, "c": 8, "v": 28, "t": "At nalalaman natin na ang lahat ng mga bagay ay nagkakalakip na gumagawa sa ikabubuti ng mga nagsisiibig sa Dios, sa makatuwid baga'y niyaong mga tinawag alinsunod sa kaniyang nasa." },
+
+    { "b": 50, "c": 4, "v": 13, "t": "Lahat ng mga bagay ay aking magagawa doon sa nagpapalakas sa akin." }
+  ]
+}

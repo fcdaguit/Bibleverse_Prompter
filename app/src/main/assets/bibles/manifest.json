@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "comment": "Translations bundled inside the APK. The seeder imports every entry here on first launch. To add a fourth bundled Bible: drop the JSON (or .json.gz) in this folder and add an entry below.",
+  "bundled": [
+    {
+      "code": "KJV",
+      "name": "King James Version",
+      "abbreviation": "KJV",
+      "language": "en",
+      "languageLabel": "English",
+      "file": "kjv.json",
+      "sortOrder": 1,
+      "expectedVerses": 31102
+    },
+    {
+      "code": "ADB",
+      "name": "Ang Dating Biblia (1905)",
+      "abbreviation": "ADB",
+      "language": "fil",
+      "languageLabel": "Tagalog",
+      "file": "tagalog_adb.json",
+      "sortOrder": 2,
+      "expectedVerses": 31102
+    },
+    {
+      "code": "BUGNA",
+      "name": "Ang Bag-ong Maayong Balita (Bugna)",
+      "abbreviation": "CEB",
+      "language": "ceb",
+      "languageLabel": "Cebuano",
+      "file": "cebuano_bugna.json",
+      "sortOrder": 3,
+      "expectedVerses": 31102
+    }
+  ]
+}

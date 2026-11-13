@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verse Prompter</string>
+    <string name="offline_mode_notice">Offline mode active — using local Bible library</string>
+    <string name="preparing_library">Preparing offline Bible library…</string>
+</resources>
