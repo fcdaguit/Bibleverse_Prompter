@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+*.keystore
+!debug.keystore
+
+# Full Bible JSON files are large. Keep the samples, ignore accidental dumps of
+# anything you unzip into the assets folder while testing.
+/app/src/main/assets/bibles/*.tmp
